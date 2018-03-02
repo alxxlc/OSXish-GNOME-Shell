@@ -1,0 +1,9 @@
+[submodule "la-capitaine-icon-theme"]
+	path = la-capitaine-icon-theme
+	url = https://github.com/keeferrourke/la-capitaine-icon-theme.git
+[submodule "Sierra-gtk-theme"]
+	path = Sierra-gtk-theme
+	url = https://github.com/vinceliuice/Sierra-gtk-theme.git
+[submodule "lato-font"]
+	path = lato-font
+	url = https://github.com/betsol/lato-font.git
