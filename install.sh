@@ -1,5 +1,19 @@
 #!/bin/bash
 
+# Credits:
+# La Capitaine Icons:
+#	https://github.com/keeferrourke/la-capitaine-icon-theme
+#
+# Gnome-OSX Theme:
+#	https://www.opendesktop.org/p/1171688/
+#
+# Sierra GTK Theme:
+#	https://github.com/vinceliuice/Sierra-gtk-theme
+#
+# Lato Font:
+#	http://www.latofonts.com/lato-free-fonts/
+#	https://fonts.google.com/specimen/Lato
+
 echo -e "\e[96mSetting application theme..."
 mkdir -p ~/.themes
 cp -r ./Gnome-OSX-V-HSierra/ ~/.themes
