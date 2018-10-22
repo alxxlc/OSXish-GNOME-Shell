@@ -13,6 +13,23 @@
 # Lato Font:
 #	http://www.latofonts.com/lato-free-fonts/
 #	https://fonts.google.com/specimen/Lato
+#
+# Install Script and Asset Tweaks:
+#   Alex Coté
+#   https://gitlab.com/alxxlc
+
+# TODO:
+    # Gnome Settings Tweaks:
+    #     Window->Titlebar Button Placement: Left
+    
+    # Dash-To-Dock Tweaks:
+    #     Show Window Counter Indicators: TRUE
+    #         Customize Indicator Style: FALSE
+    #     White background
+    #     Transparent BG
+    
+    # Edit wallpapers
+    # Copy wallapper edits to pictures folder
 
 echo -e "\e[96mSetting application theme..."
 mkdir -p ~/.themes
