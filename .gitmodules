@@ -4,3 +4,6 @@
 [submodule "Sierra-gtk-theme"]
 	path = Sierra-gtk-theme
 	url = https://github.com/vinceliuice/Sierra-gtk-theme.git
+[submodule "Mc-OS-themes"]
+	path = Mc-OS-themes
+	url = https://github.com/paullinuxthemer/Mc-OS-themes

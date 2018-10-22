@@ -4,8 +4,8 @@
 # La Capitaine Icons:
 #	https://github.com/keeferrourke/la-capitaine-icon-theme
 #
-# Gnome-OSX Theme:
-#	https://www.opendesktop.org/p/1171688/
+# Gnome-OSX Themes:
+#	https://github.com/paullinuxthemer/Mc-OS-themes
 #
 # Sierra GTK Theme:
 #	https://github.com/vinceliuice/Sierra-gtk-theme
@@ -30,6 +30,10 @@
     
     # Edit wallpapers
     # Copy wallapper edits to pictures folder
+
+# Future Possibilities:
+    # Allow choosing light/dark, solid/transparent, and OSX version on install
+    #   OR Install them all and allow for switching on the fly.
 
 echo -e "\e[96mSetting application theme..."
 mkdir -p ~/.themes
