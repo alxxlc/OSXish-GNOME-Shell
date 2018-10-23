@@ -1,3 +1,7 @@
+##########################################
+# Install Script And Asset Modifications #
+##########################################
+
 MIT License
 
 Copyright (c) 2018 Alex Coté
@@ -19,3 +23,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+##################
+# Lato 2.0 Fonts #
+##################
+
+Lato 2.0 is licensed under OFL 1.1 (https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). The full license text for the Lato 2.0 font family can be found in the ./Lato/OFL.tla-capitaine-icon-theme
+xt file.
+
+################
+# Mc-OS-themes #
+################
+
+The Mc-OS-themes project is under the GNU General Public License v2.0 (https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). The full license text for the Mc-OS-themes project can be found in the ./Mc-OS-themes/COPYING file.
+
+####################
+# Sierra-gtk-theme #
+####################
+
+The Sierra-gtk-theme project is under the GNU General Public License v3.0 (https://www.gnu.org/licenses/gpl-3.0.en.html). The full license text for the Sierra-gtk-theme project can be found in the ./Sierra-gtk-theme/LICENSE file.
+
+##########################
+# La Capitaine Icon Pack #
+##########################
+
+The La Capitaine icon pack is under both the GNU General Public License v3.0 (https://www.gnu.org/licenses/gpl-3.0.en.html) and the MIT License. The full license text for the La Capitaine icon pack can be found in the ./la-capitaine-icon-theme/LICENSE file.
