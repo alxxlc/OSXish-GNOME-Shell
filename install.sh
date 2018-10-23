@@ -37,7 +37,7 @@
 
 echo -e "\e[96mSetting application theme..."
 mkdir -p ~/.themes
-cp -r ./Gnome-OSX-V-HSierra/ ~/.themes
+cp -r ./Mc-OS-themes/McOS-MJV-3.30/ ~/.themes
 
 echo -e "\e[96mSetting shell theme..."
 chmod +x ./Sierra-gtk-theme/Install
@@ -60,7 +60,7 @@ cp ./Lato/*.ttf ~/.local/share/fonts/
 echo -e "\e[96mTweaking GNOME..."
 ### Set themes:
 # Set application theme
-gsettings set org.gnome.desktop.interface gtk-theme "Gnome-OSX-V-HSierra"
+gsettings set org.gnome.desktop.interface gtk-theme "McOS-MJV-3.30"
 # Set shell theme
 gsettings set org.gnome.shell.extensions.user-theme name "Sierra-light-solid"
 # Set icon theme
