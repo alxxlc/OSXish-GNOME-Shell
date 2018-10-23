@@ -12,3 +12,4 @@ I made this for myself so I'm not putting much more time in it more than I need 
 * Paullinuxthemer's Mc-OS themes
 * Sierra-gtk themes
 * Pexel pictures for the wallpapers
+* Lato font family
